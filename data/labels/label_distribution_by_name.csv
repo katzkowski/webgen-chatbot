@@ -1,0 +1,190 @@
+name,type,Count(*)
+11ty,technology,2
+360,tag,293
+3D,tag,1517
+"404 pages",tag,276
+"About Page",tag,478
+"After Effects",technology,47
+AngularJS,technology,341
+Animation,tag,11865
+Anime.js,technology,136
+"App Style",tag,807
+Architecture,category,1681
+"Art & Illustration",category,3765
+Backbone.js,technology,196
+BARBA.js,technology,374
+"Big Background Images",tag,6977
+Black,color,19682
+Blue,color,11141
+Bootstrap,technology,1207
+Brown,color,2491
+"Business & Corporate",category,8740
+Cables,technology,3
+"Canvas API",technology,11
+Clean,tag,16904
+Colorful,tag,6661
+"Contact Page",tag,174
+"Content architecture",tag,790
+Contentful,tag,153
+"Copy design",tag,314
+"Craft CMS",technology,383
+CreateJS,technology,111
+CSS3,technology,13626
+"Culture & Education",category,3341
+D3,technology,49
+"Data Visualization",tag,540
+Debian,technology,99
+Demandware,technology,16
+"Design Agencies",category,8149
+Directus,technology,3
+Drupal,technology,731
+E-Commerce,category,4225
+Events,category,1640
+Experimental,category,1241
+Express,technology,147
+Fashion,category,2654
+FastClick,technology,67
+Figma,technology,82
+"Film & TV",category,1688
+"Filters and Effects",tag,1084
+Firebase,technology,95
+"Flat Design",tag,4438
+"Font Awesome",technology,333
+"Food & Drink",category,2672
+"Footer Design",tag,169
+"Forms and Input",tag,335
+"Framer Motion",technology,24
+Fullscreen,tag,6058
+Gallery,tag,923
+"Games & Entertainment",category,1839
+Gatsby,technology,213
+"Gestures / Interaction",tag,954
+GLSL,technology,475
+Go,technology,4
+"Google App Engine",technology,92
+"Google Font API",technology,598
+"Graphic design",tag,5542
+GraphQL,technology,105
+Green,color,7117
+"GSAP Animation",technology,3336
+Hammer.JS,technology,254
+Handlebars,technology,68
+"Header Design",tag,324
+Highway.js,technology,32
+"Horizontal Layout",tag,792
+"Hotel / Restaurant",category,1258
+HTML5,technology,14584
+Hugo,technology,2
+Icons,tag,1595
+Illustration,tag,2028
+"Infinite Scroll",tag,1678
+Ink,technology,32
+Institutions,category,1168
+"Interaction Design",tag,1784
+Javascript,technology,178
+jQuery,technology,8153
+"jQuery Mobile",technology,66
+"jQuery UI",technology,205
+Knockout,technology,19
+Laravel,technology,372
+Lo-dash,technology,221
+"Locomotive Scroll",technology,20
+Lottie,technology,78
+"Magazine / Newspaper / Blog",category,1126
+Magento,technology,102
+MediaElement.js,technology,11
+"Menu - Horizontal",tag,360
+"Menu - Vertical",tag,254
+Microinteractions,tag,945
+Minimal,tag,7778
+"Mobile & Apps",category,2201
+Modernizr,technology,664
+"Music & Sound",category,1664
+"Navigation Menu",tag,2197
+"Neos CMS",technology,6
+Netlify,technology,52
+next.js,tag,46
+Nginx,technology,837
+Node.js,technology,730
+Nuxt.js,technology,339
+Optimizely,technology,8
+Orange,color,3469
+Other,category,3266
+"OWL Carousel",technology,77
+Parallax,tag,5023
+"Photo & Video",tag,1028
+Photography,category,770
+PHP,technology,3055
+Pink,color,2952
+PixiJS,technology,592
+Portfolio,tag,6343
+Prismic,technology,34
+"Project Page",tag,375
+Promotional,category,3966
+PWA,technology,9
+Raphael.js,technology,6
+React,technology,1334
+ReadyMag,technology,11
+"Real Estate",category,580
+Red,color,6762
+Redux,technology,3
+RequireJS,technology,144
+Responsive,tag,2527
+"Responsive Design",tag,15392
+Retro,tag,730
+Reveal.js,technology,16
+Ruby,technology,127
+Sanity,technology,6
+Scrolling,tag,3694
+SEO,tag,1133
+Shopify,technology,476
+Silver,color,8172
+"Single page",tag,4224
+Skrollr.js,technology,55
+Snap.svg,technology,74
+"Social Integration",tag,1267
+Socket.io,technology,25
+Sound-Audio,tag,599
+Spin.js,technology,5
+Sports,category,1384
+Startups,category,1036
+Storytelling,tag,1840
+Svelte,technology,6
+SVG,technology,3296
+Technology,category,4378
+Three.js,technology,1422
+Tilda,technology,7
+Timber,technology,3
+Transitions,tag,2236
+tween.js,technology,198
+"Twitter API",technology,56
+Typekit,technology,405
+Typography,tag,5445
+"UI design",tag,2803
+Underscore.js,technology,203
+Unity,technology,2
+"Unreal Engine",technology,1
+"Unusual Navigation",tag,3397
+"Vanilla JS",technology,19
+Varnish,technology,114
+Vector,tag,729
+Velocity.js,technology,60
+Vercel,technology,28
+Video,tag,4635
+VideoJS,technology,68
+VR,technology,70
+Vue.js,technology,915
+"Web & Interactive",category,13971
+"Web Fonts",tag,986
+Webflow,technology,98
+WebGL,technology,3115
+Webpack,technology,943
+WebSockets,technology,140
+WebVR,technology,72
+White,color,22755
+WooCommerce,technology,455
+Wordpress,technology,9730
+Yellow,color,6954
+Yepnope,technology,84
+"YouTube API",technology,140
+Zepto,technology,55

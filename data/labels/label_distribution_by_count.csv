@@ -1,0 +1,190 @@
+name,type,Count(*)
+White,color,22755
+Black,color,19682
+Clean,tag,16904
+"Responsive Design",tag,15392
+HTML5,technology,14584
+"Web & Interactive",category,13971
+CSS3,technology,13626
+Animation,tag,11865
+Blue,color,11141
+Wordpress,technology,9730
+"Business & Corporate",category,8740
+Silver,color,8172
+jQuery,technology,8153
+"Design Agencies",category,8149
+Minimal,tag,7778
+Green,color,7117
+"Big Background Images",tag,6977
+Yellow,color,6954
+Red,color,6762
+Colorful,tag,6661
+Portfolio,tag,6343
+Fullscreen,tag,6058
+"Graphic design",tag,5542
+Typography,tag,5445
+Parallax,tag,5023
+Video,tag,4635
+"Flat Design",tag,4438
+Technology,category,4378
+E-Commerce,category,4225
+"Single page",tag,4224
+Promotional,category,3966
+"Art & Illustration",category,3765
+Scrolling,tag,3694
+Orange,color,3469
+"Unusual Navigation",tag,3397
+"Culture & Education",category,3341
+"GSAP Animation",technology,3336
+SVG,technology,3296
+Other,category,3266
+WebGL,technology,3115
+PHP,technology,3055
+Pink,color,2952
+"UI design",tag,2803
+"Food & Drink",category,2672
+Fashion,category,2654
+Responsive,tag,2527
+Brown,color,2491
+Transitions,tag,2236
+"Mobile & Apps",category,2201
+"Navigation Menu",tag,2197
+Illustration,tag,2028
+Storytelling,tag,1840
+"Games & Entertainment",category,1839
+"Interaction Design",tag,1784
+"Film & TV",category,1688
+Architecture,category,1681
+"Infinite Scroll",tag,1678
+"Music & Sound",category,1664
+Events,category,1640
+Icons,tag,1595
+3D,tag,1517
+Three.js,technology,1422
+Sports,category,1384
+React,technology,1334
+"Social Integration",tag,1267
+"Hotel / Restaurant",category,1258
+Experimental,category,1241
+Bootstrap,technology,1207
+Institutions,category,1168
+SEO,tag,1133
+"Magazine / Newspaper / Blog",category,1126
+"Filters and Effects",tag,1084
+Startups,category,1036
+"Photo & Video",tag,1028
+"Web Fonts",tag,986
+"Gestures / Interaction",tag,954
+Microinteractions,tag,945
+Webpack,technology,943
+Gallery,tag,923
+Vue.js,technology,915
+Nginx,technology,837
+"App Style",tag,807
+"Horizontal Layout",tag,792
+"Content architecture",tag,790
+Photography,category,770
+Drupal,technology,731
+Node.js,technology,730
+Retro,tag,730
+Vector,tag,729
+Modernizr,technology,664
+Sound-Audio,tag,599
+"Google Font API",technology,598
+PixiJS,technology,592
+"Real Estate",category,580
+"Data Visualization",tag,540
+"About Page",tag,478
+Shopify,technology,476
+GLSL,technology,475
+WooCommerce,technology,455
+Typekit,technology,405
+"Craft CMS",technology,383
+"Project Page",tag,375
+BARBA.js,technology,374
+Laravel,technology,372
+"Menu - Horizontal",tag,360
+AngularJS,technology,341
+Nuxt.js,technology,339
+"Forms and Input",tag,335
+"Font Awesome",technology,333
+"Header Design",tag,324
+"Copy design",tag,314
+360,tag,293
+"404 pages",tag,276
+"Menu - Vertical",tag,254
+Hammer.JS,technology,254
+Lo-dash,technology,221
+Gatsby,technology,213
+"jQuery UI",technology,205
+Underscore.js,technology,203
+tween.js,technology,198
+Backbone.js,technology,196
+Javascript,technology,178
+"Contact Page",tag,174
+"Footer Design",tag,169
+Contentful,tag,153
+Express,technology,147
+RequireJS,technology,144
+"YouTube API",technology,140
+WebSockets,technology,140
+Anime.js,technology,136
+Ruby,technology,127
+Varnish,technology,114
+CreateJS,technology,111
+GraphQL,technology,105
+Magento,technology,102
+Debian,technology,99
+Webflow,technology,98
+Firebase,technology,95
+"Google App Engine",technology,92
+Yepnope,technology,84
+Figma,technology,82
+Lottie,technology,78
+"OWL Carousel",technology,77
+Snap.svg,technology,74
+WebVR,technology,72
+VR,technology,70
+VideoJS,technology,68
+Handlebars,technology,68
+FastClick,technology,67
+"jQuery Mobile",technology,66
+Velocity.js,technology,60
+"Twitter API",technology,56
+Zepto,technology,55
+Skrollr.js,technology,55
+Netlify,technology,52
+D3,technology,49
+"After Effects",technology,47
+next.js,tag,46
+Prismic,technology,34
+Ink,technology,32
+Highway.js,technology,32
+Vercel,technology,28
+Socket.io,technology,25
+"Framer Motion",technology,24
+"Locomotive Scroll",technology,20
+"Vanilla JS",technology,19
+Knockout,technology,19
+Reveal.js,technology,16
+Demandware,technology,16
+MediaElement.js,technology,11
+ReadyMag,technology,11
+"Canvas API",technology,11
+PWA,technology,9
+Optimizely,technology,8
+Tilda,technology,7
+"Neos CMS",technology,6
+Raphael.js,technology,6
+Svelte,technology,6
+Sanity,technology,6
+Spin.js,technology,5
+Go,technology,4
+Directus,technology,3
+Redux,technology,3
+Cables,technology,3
+Timber,technology,3
+Hugo,technology,2
+Unity,technology,2
+11ty,technology,2
+"Unreal Engine",technology,1
