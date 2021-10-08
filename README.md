@@ -15,7 +15,6 @@ This repository contains the code and application belonging to the above bachelo
 │   ├── generated                   # pre-generated images for chatbot execution
 │   ├── labels                      # image labels
 │   ├── ratings                     # user ratings
-│   ├── sql-queries                 # sql queries
 │   └── study                       # questionnaire and results of study
 ├── logs
 ├── src
