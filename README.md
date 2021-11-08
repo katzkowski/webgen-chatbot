@@ -22,17 +22,13 @@ This repository contains the code and application belonging to the above bachelo
 ├── requirements.txt                # for development
 ├── README.md
 ├── data
-│   ├── chatbot                     # files for chatbot execution
-│   ├── generated                   # pre-generated images for chatbot execution
-│   ├── labels                      # image labels
-│   ├── ratings                     # user ratings
-│   └── study                       # questionnaire and results of study
+│   └── labels                      # image labels
 ├── logs
 ├── src
 │   ├── __init__.py
 │   ├── __main__.py                 # main module for development scripts
 │   ├── chatbot                     # chatbot code
-│   ├── client                      # client
+│   ├── client                      # client UI
 │   ├── clustering                  # scripts to run k-means clustering
 │   ├── crawling                    # web crawler
 │   ├── database                    # database interface
