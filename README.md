@@ -1,8 +1,19 @@
 # Generating Website Layouts with Artificial Intelligence from Natural Language Input
 
-This repository contains the code and application belonging to the above bachelor's thesis. The application can be used online without a local installation by visiting https://webgen-bot.netlify.app/.
+This project focuses on the website generation task using AI methods based on a description in natural language. Multiple Generative Adversarial Networks (GANs) trained on self-created, class conditional dataset generate preview images of websites that match a textual description, which a user communicates to a self-developed chatbot. The application is available at https://webgen-bot.netlify.app/.  
+
+
+Below are samples of generated websites.  
+
+![generated-websites-samples](https://user-images.githubusercontent.com/49451811/140747316-ef217c24-d4d0-4d65-aaf2-90fd9de5d8af.jpg)
+
+
+## Abstract
+*The demand for websites has increased in recent years and designing websites is more accessible than ever, also for people with little technical knowledge. To enhance the design process for such people and web designers in general, this thesis proposes a novel approach for website design generation from natural language input. The designs are generated as images by a set of Generative Adversarial Networks (GANs) trained using transfer learning methods on a self-created, class-conditional dataset of website screenshots. A chatbot serves as a human-computer interface and displays the best-matching generated website image to the user's input. To validate the concept, a user study with six participants was conducted, comparing the chatbot using generated website images to an alternative version using images of real websites from the training data. The evaluation results suggest the viability of this approach. However, especially in the sharpness and clarity of the generated website images, there is room for improvements. Further research on this topic is needed to fully exploit the potential of this approach.*
+
 
 ## Contents of this repository
+This repository contains the code and application belonging to the above bachelor's thesis. The application can be used online without a local installation by visiting https://webgen-bot.netlify.app/.
 
 ```Bash
 ├── .env
