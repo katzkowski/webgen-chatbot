@@ -1,6 +1,6 @@
 # Generating Website Layouts with Artificial Intelligence from Natural Language Input
 
-This project focuses on the website generation task using AI methods based on a description in natural language. Multiple Generative Adversarial Networks (GANs) trained on self-created, class conditional dataset generate preview images of websites that match a textual description, which a user communicates to a self-developed chatbot. The application is available at https://webgen-bot.netlify.app/.  
+This project focuses on the website generation task using AI methods based on a description in natural language. Multiple **Generative Adversarial Networks (GANs)** trained on self-created, class conditional dataset generate preview images of websites that match a textual description, which a user communicates to a **self-developed chatbot**. The application is available at https://webgen-bot.netlify.app/.  
 
 
 Below are samples of generated websites.  
